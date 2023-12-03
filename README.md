@@ -4,7 +4,7 @@
 # Clone the repo
 
 ```bash
-git clone
+git clone https://github.com/Rohit-118/RoxWealth.git
 ```
 
 # Navigate into the my-json-server folder
