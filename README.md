@@ -12,7 +12,7 @@ git clone
 ```bash
 cd path/my-json-server
 ```
-```
+
 
 ## Setup
 
