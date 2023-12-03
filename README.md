@@ -10,7 +10,7 @@ git clone https://github.com/Rohit-118/RoxWealth.git
 # Navigate into the my-json-server folder
 
 ```bash
-cd path/my-json-server
+cd RoxWealth/my-json-server
 ```
 
 
@@ -32,7 +32,7 @@ npm start
 # Then Navigate into the Resturant folder
 
 ```bash
-cd path/Resturant
+cd RoxWealth/Resturant
 ```
 
 ## Setup
