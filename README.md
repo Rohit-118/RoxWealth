@@ -6,7 +6,7 @@
 ```bash
 git clone https://github.com/Rohit-118/RoxWealth.git
 ```
-
+### npm version "10.2.3" Required
 # Navigate into the my-json-server folder
 
 ```bash
